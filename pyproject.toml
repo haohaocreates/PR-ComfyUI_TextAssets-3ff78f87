@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_textassets"
+description = "With this node you can upload text files to input folder from your local computer."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/bilal-arikan/ComfyUI_TextAssets"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_TextAssets"
+Icon = ""
